@@ -44,7 +44,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 # ==============================
 # CARGA DE DATOS
 # ==============================
-df = pd.read_csv("vehicles_us.csv", encoding="latin1")
+df = pd.read_csv("vehicles_sample.csv", encoding="latin1")
 
 # ==============================
 # TÍTULO PRINCIPAL
