@@ -38,3 +38,11 @@ streamlit run app.py
   `pip install --upgrade pip && pip install -r requirements.txt`
 - **Start Command**:
   `streamlit run app.py --server.port $PORT --server.address 0.0.0.0`
+  
+---
+
+### ✅ Confirmación final:
+1️⃣ Tu **GitHub** → `https://github.com/josuerr44/sprint7_starter`  
+2️⃣ Tu **Render** → `https://sprint7-starter.onrender.com/`  
+✔️ Ambos enlaces están integrados en el bloque correcto y listos para tu entrega.
+
